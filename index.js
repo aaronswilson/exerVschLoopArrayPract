@@ -37,7 +37,6 @@ var peopleWhoWantToSeeMadMaxFuryRoad = [
     }
 ] 
 
-var count = 0
 for( var i = 0 ; i < peopleWhoWantToSeeMadMaxFuryRoad.length ; i++ ) {
     if( peopleWhoWantToSeeMadMaxFuryRoad[i].gender === "male" ) {
         var genderpronoun = "him"
